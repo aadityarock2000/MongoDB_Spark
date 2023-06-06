@@ -6,7 +6,7 @@
 
 ## Dataset Description:
 For this project, we decided to use the AirBnB dataset, which can be found here: http://insideairbnb.com/get-the-data.html.
-The dataset comprises 4 cities: Los Angeles, CA, Portland, OR, Salem, OR, and San Diego, CA. Each city has 4 files: listings.csv, calendar.csv, reviews.csv, and neighborhoods.csv.
+We selected 4 cities: Los Angeles, CA, Portland, OR, Salem, OR, and San Diego, CA. Each city has 4 files: listings.csv, calendar.csv, reviews.csv, and neighborhoods.csv.
 
 ## Dataset Specific Questions:
 1) Display list of stays in Portland, OR with details: name, neighbourhood, room type, how many guests it accommodates, property type and amenities, per night’s cost and is available for the next two days in descending order of rating.
